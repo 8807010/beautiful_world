@@ -25,5 +25,3 @@ window.onscroll = function () {
 
 window.scrollTo(0, 1)
 
-
-console.log("12234")

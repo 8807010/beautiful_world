@@ -1,1 +1,2 @@
-import './components/ex';
+import './components/3d';
+import './components/sound';
