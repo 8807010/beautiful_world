@@ -9,6 +9,10 @@
   will-change: transform;
   transform-style: preserve-3d;
 
+  &_bg {
+    background-color: rgb(0 0 0 / .87);
+  }
+
   & h3 {
     font-size: calc(var(--index) * 3);
   }
